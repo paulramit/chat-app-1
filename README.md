@@ -17,7 +17,6 @@ Watch the app in action here:
 - One-on-one messaging
 - Group chat functionality
 - Real-time communication using WebSockets
-- Offline message queuing and delivery
 - Responsive UI with Tailwind CSS
 
 ---
